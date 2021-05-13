@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Francis/AndroidStudioProjects/phone_validation_app/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Francis/AndroidStudioProjects/phone_validation_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Francis/AndroidStudioProjects/phone_validation_app/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/Francis/AndroidStudioProjects/phone_validation_app/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/Francis/AndroidStudioProjects/phone_validation_app/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_launch_image.png.flat",
+        "source": "/Users/Francis/AndroidStudioProjects/phone_validation_app/android/app/src/main/res/mipmap-xxxhdpi/launch_image.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri May 14 05:02:04 HKT 2021
+base.0=/Users/Francis/AndroidStudioProjects/phone_validation_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
